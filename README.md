@@ -1,13 +1,13 @@
-### Hi~
+### Hi
 
-I'm the cute persona of one gamehacker and `JP` ➧ `EN` translator in the visual novel scene.  
-Apart from that whole "writing" thing, I mostly spend my time inside **IDA**, **x64dbg** and **Visual Studio**, doing **C++**.  
+I'm the *cute* persona of one gamehacker and `JP` ➧ `EN` translator in the visual novel scene.  
+Apart from the whole "writing" thing I mostly spend my time inside **IDA**, **x64dbg** and **Visual Studio** doing C++.  
 
-I head the [@pantsudev](https://github.com/pantsudev) VN TL team.  
+I head the [@pantsudev](https://github.com/pantsudev) TL team.  
 You can read all about our current work [here](https://pantsudev.carrd.co/).
 
 I'm available for freelance work on anything that's within my skillset.  
-Feel free to message me on Twitter, or **preferably Discord** to discuss whatever.
+Feel free to message me on Discord or Twitter to discuss whatever.
 
 ---
 
